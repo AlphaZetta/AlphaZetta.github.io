@@ -2,7 +2,7 @@
 layout: default
 title: MCloverz, Alpha
 desc_note: About me and what I do
-site_title: Alpha
+title: Alpha
 ---
 
 Hi! I am @MCloverz, but you can call me Alpha.
