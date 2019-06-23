@@ -1,9 +1,10 @@
 ---
 layout: default
-title: MCloverz, Alpha
+header: MCloverz, Alpha
 desc_note: About me and what I do
 title: Alpha
 ---
+# About
 
 Hi! I am @MCloverz, but you can call me Alpha.
 
