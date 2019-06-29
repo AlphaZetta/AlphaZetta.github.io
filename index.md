@@ -28,7 +28,15 @@ CoolTheCoolMaster123, CoolTheCoolMaster123BU | ROBLOX | 2
 
 | Username(s)        | Platform          | Activity Level |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| AlphaZetta          | g | 2  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+| Username(s) | Platform          | Activity Level |
+|:---------------------|:---------------------------|:------------------|
+| AlphaZetta          | MCJE | 2  |
+| @MClovers, @AlphaZetta | Scratch   | 10  |
+| CoolTheCoolMaster123, CoolTheCoolMasterBU           | ROBLOX      | 2   |
+| @MClovers  | good `zoute` drop | 5  |
+| @MCloverz         | GitHub       | 7 |
