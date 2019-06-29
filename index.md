@@ -19,5 +19,5 @@ I like to solve Rubik's Cubes, program, do graphic design and karate!
 | AlphaZetta          | MCJE | 2  |
 | @MClovers, @AlphaZetta | Scratch   | 10  |
 | CoolTheCoolMaster123, CoolTheCoolMasterBU           | ROBLOX      | 2   |
-| @MClovers  | good `zoute` drop | 5  |
+| @MClovers  | Trello | 5  |
 | @MCloverz         | GitHub       | 7 |
