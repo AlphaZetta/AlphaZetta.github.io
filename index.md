@@ -25,3 +25,10 @@ CoolTheCoolMaster123, CoolTheCoolMaster123BU | ROBLOX | 2
 @MClovers | Trello | 5
 
 @MCloverz | GitHub | 7
+
+| Username(s)        | Platform          | Activity Level |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
